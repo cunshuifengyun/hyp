@@ -8,3 +8,5 @@ hongyanpu
 >jquery-easyui-1.4.3
 
 >jquery-2.1.4
+
+>jQuery cxScroll v1.2.2
