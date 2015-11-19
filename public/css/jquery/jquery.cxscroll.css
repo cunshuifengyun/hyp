@@ -3,7 +3,7 @@
  * 横向滚动
  * ------------------------------ */
 .scroll_horizontal{position:relative;width:100%;height:100%;background-color:#eee;}
-.scroll_horizontal .box{overflow:hidden;position:relative;width:1280px;height:100%;margin:0 auto;}
+.scroll_horizontal .box{overflow:hidden;position:relative;width:93%;height:100%;margin:0 auto;}
 .scroll_horizontal .list{overflow:hidden;width:9999px;height: 100%;}
 .scroll_horizontal .list li{float:left;width:128px;height: 100%;padding-right:20px;verflow: hidden;}
 .scroll_horizontal .list li a{display:inline-block;width:100%;height: 100%;}
